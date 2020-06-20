@@ -6,13 +6,13 @@
 > Bom estes códigos foram feitos com objetivo de estudos para mim.
 
 
-#Links
+# Links
 
 [Inicio do LaunchBase](https://github.com/Rocketseat/bootcamp-launchbase-desafios-01)
 
 Desenvolvido por Rocketseat.
 
-#Código de exemplo
+# Código de exemplo
 
 ```javascript
 //Crie um programa para calcular o IMC e nível de obesidade de uma pessoa
@@ -35,9 +35,9 @@ if ( imc < 29.9 ) {
 }
 ```
 
-#Códigos feitos
+# Códigos feitos
 
-#Semana (1)
+# Semana (1)
 
 - IMC
 - APOSENTADORIA
