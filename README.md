@@ -1,18 +1,18 @@
 ![](https://camo.githubusercontent.com/268b1344409fac98c4eeda520482b6910c4ddcba/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d6c61756e6368626173652f6c6f676f2e706e67)
 
 
-# New Features!
+# Objetivo
 
 > Bom estes códigos foram feitos com objetivo de estudos para mim.
 
 
-###Links
+#Links
 
 [Inicio do LaunchBase](https://github.com/Rocketseat/bootcamp-launchbase-desafios-01)
 
 Desenvolvido por Rocketseat.
 
-####Código de exemplo
+#Código de exemplo
 
 ```javascript
 //Crie um programa para calcular o IMC e nível de obesidade de uma pessoa
@@ -35,9 +35,9 @@ if ( imc < 29.9 ) {
 }
 ```
 
-###Códigos feitos
+#Códigos feitos
 
-####Semana (1)
+#Semana (1)
 
 - IMC
 - APOSENTADORIA
