@@ -8,7 +8,7 @@ const sexo = 'Masculino'
 const imc = peso / (altura * altura);
 
 // Se o imc maior ou igual a 30: Jessé você está acima do peso:
-if ( imc >= 30 ) {
+if ( imc >= 60 ) {
     console.log(`${nome} você está acima do peso`)
 }
 
